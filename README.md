@@ -1,4 +1,4 @@
-# DocuMind_AI## 📄 Project Overview – DocuMind_AI (Document Q&A App with LangChain)
+# DocuMind_AI ## 📄 Project Overview – DocuMind_AI (Document Q&A App with LangChain)
 
 **DocuMind_AI** is an intelligent document assistant built using **LangChain** and deployed on **Streamlit**. It allows users to upload documents (PDFs, text, etc.) and ask questions about their content. Leveraging advanced language models and retrieval techniques, DocuMind_AI delivers accurate, contextual answers drawn directly from your documents.
 
